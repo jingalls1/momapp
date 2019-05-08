@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/momapp/static/css/main.9702442e.chunk.css",
+    "main.js": "/momapp/static/js/main.722111ec.chunk.js",
+    "main.js.map": "/momapp/static/js/main.722111ec.chunk.js.map",
+    "runtime~main.js": "/momapp/static/js/runtime~main.7c8f65b2.js",
+    "runtime~main.js.map": "/momapp/static/js/runtime~main.7c8f65b2.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/momapp/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/momapp/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/momapp/index.html",
+    "precache-manifest.9fe30a955b5bd08358d4a750e0ff42c9.js": "/momapp/precache-manifest.9fe30a955b5bd08358d4a750e0ff42c9.js",
+    "service-worker.js": "/momapp/service-worker.js",
+    "static/css/main.9702442e.chunk.css.map": "/momapp/static/css/main.9702442e.chunk.css.map"
+  }
+}
